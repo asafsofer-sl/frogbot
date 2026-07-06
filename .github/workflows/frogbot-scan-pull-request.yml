@@ -110,7 +110,7 @@ jobs:
           # need to set this value, if it is set in the frogbot-config.yml file.
           # JF_DEPS_REPO: ""
 
-          # [Optional, Default: "FALSE"]
+          # [Optional, Default: "FALSE"] dd
           # If TRUE, Frogbot creates a single pull request with all the fixes.
           # If false, Frogbot creates a separate pull request for each fix.
           # JF_GIT_AGGREGATE_FIXES: "FALSE"
